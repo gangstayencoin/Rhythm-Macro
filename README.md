@@ -16,8 +16,10 @@
 - Configurable hit line and lane keys
 - Off-screen live capture window for debugging
 
+## Install Tutorial:
 
- 
+[![Watch the video](https://img.youtube.com/vi/uD8jP-14Rl4/maxresdefault.jpg)](https://www.youtube.com/watch?v=uD8jP-14Rl4)
+
 ## Installation
 
 1. Clone the repository:
