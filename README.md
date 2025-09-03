@@ -22,7 +22,7 @@
 ## Installation
 
 ### Easy method (recommended)
-1. [Download ZIP](https://github.com/yourusername/rhythm-macro/archive/refs/heads/main.zip)  
+1. [Download ZIP](https://github.com/gangstayencoin/Rhythm-Macro/archive/refs/heads/main.zip)  
 2. Extract it anywhere on your computer.  
 3. Open a terminal in the extracted folder.  
 4. Install dependencies:
