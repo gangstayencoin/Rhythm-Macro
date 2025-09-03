@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 [![Discord](https://img.shields.io/badge/Discord-Contact%20Me-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/1154909932659945585)
 
-**Rhythm Macro** is a high-performance macro for rhythm games (like Roblox music/tile games). It uses real-time screen capture and template matching to detect tiles and press keys with precise timing—including simultaneous multi-key presses.
+**Rhythm Macro** is a high-performance macro for the rhythm game inside **Huzz RNG**. It uses real-time screen capture and template matching to detect tiles and press keys with precise timing—including simultaneous multi-key presses.
 
 ## Features
 
