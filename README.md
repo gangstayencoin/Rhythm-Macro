@@ -2,19 +2,18 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+[![Discord](https://img.shields.io/badge/Discord-Contact%20Me-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/1154909932659945585)
 
 **Rhythm Macro** is a high-performance macro for rhythm games (like Roblox music/tile games). It uses real-time screen capture and template matching to detect tiles and press keys with precise timing—including simultaneous multi-key presses.
 
-
-
 ## Features
 
-- Real-time tile detection using OpenCV and MSS
-- Simultaneous multi-key presses with `pynput`
-- Modular design: `capture`, `detection`, `input`
-- High FPS live capture for responsive gameplay
-- Configurable hit line and lane keys
-- Off-screen live capture window for debugging
+- Real-time tile detection using OpenCV and MSS  
+- Simultaneous multi-key presses with `pynput`  
+- Modular design: `capture`, `detection`, `input`  
+- High FPS live capture for responsive gameplay  
+- Configurable hit line and lane keys  
+- Off-screen live capture window for debugging  
 
 ## Install Tutorial:
 
@@ -22,29 +21,34 @@
 
 ## Installation
 
-1. Clone the repository:
+### Easy method (recommended)
+1. [Download ZIP](https://github.com/yourusername/rhythm-macro/archive/refs/heads/main.zip)  
+2. Extract it anywhere on your computer.  
+3. Open a terminal in the extracted folder.  
+4. Install dependencies:
+  
+   ```bash
+   pip install -r requirements.txt
 
-    ```bash
-    git clone https://github.com/yourusername/rhythm-macro.git
+### Git Method (Requires Git to be installed on your system.)
 
-    cd rhythm-macro
-    ```
+```bash
+git clone https://github.com/yourusername/rhythm-macro.git
 
-2. Install dependencies: 
+cd rhythm-macro
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+pip install -r requirements.txt
+```
 
-## Usage 
+## Usage
 
-1. Make sure Roblox (or your rhythm game) is running and visible.
+1. Make sure Roblox is running and visible.
 2. Place your tile template in `assets/tile.png`. (One should already be there.)
 3. Run the macro:
 
-    ```bash
-    python main.py
-    ```
+   ```bash
+   python main.py
+   ```
 4. Press `Q` in the live capture window to quit the macro.
 
 ## Notes:
